@@ -69,9 +69,7 @@ REGION_MAP = {
     "kolkata":    ("KOLK",   "kolkata",    "22.573", "88.364", "tun"),
     "pune":       ("PUNE",   "pune",       "18.520", "73.856", "te2"),
     "kochi":      ("KOCH",   "kochi",      "9.932",  "76.267", "t9z"),
-    "siliguri":   ("SILI",   "siliguri",   "26.727", "88.395", "tuy"),
-    "cooch-behar": ("COOC",   "cooch-behar", "26.345", "89.448", "tux"),
-    "coochbehar":  ("COOC",   "cooch-behar", "26.345", "89.448", "tux"),
+    "siliguri":   ("SILI",   "siliguri",   "26.708698", "88.425536", "tuw")
 }
 
 
