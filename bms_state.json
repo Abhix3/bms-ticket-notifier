@@ -1,205 +1,237 @@
 {
   "shows": {
-    "FMMA|237286|20261111|ROYAL ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "05:35 PM",
-      "date": "20261111",
-      "cat": "ROYAL ROWS",
-      "price": "920.00",
-      "status": "0"
+    "CPVM|18905|20261113|NORMAL": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "09:00 AM",
+      "date": "20261113",
+      "cat": "NORMAL",
+      "price": "190.00",
+      "status": "3"
     },
-    "FMMA|237286|20261111|EXECUTIVE ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "05:35 PM",
-      "date": "20261111",
-      "cat": "EXECUTIVE ROWS",
-      "price": "850.00",
-      "status": "2"
+    "CPVM|18905|20261113|EXECUTIVE": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "09:00 AM",
+      "date": "20261113",
+      "cat": "EXECUTIVE",
+      "price": "230.00",
+      "status": "3"
     },
-    "INRC|177319|20261111|RECLINER ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "02:55 PM",
-      "date": "20261111",
-      "cat": "RECLINER ROWS",
+    "CPVM|18905|20261113|PREMIUM": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "09:00 AM",
+      "date": "20261113",
+      "cat": "PREMIUM",
+      "price": "250.00",
+      "status": "3"
+    },
+    "CPVM|18905|20261113|PREMIUM XL": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "09:00 AM",
+      "date": "20261113",
+      "cat": "PREMIUM XL",
+      "price": "290.00",
+      "status": "3"
+    },
+    "CPVM|18905|20261113|PREMIUM PLUS": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "09:00 AM",
+      "date": "20261113",
+      "cat": "PREMIUM PLUS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "IMOB|25477|20261113|RECLINER PRIME": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "10:00 AM",
+      "date": "20261113",
+      "cat": "RECLINER PRIME",
       "price": "590.00",
-      "status": "0"
-    },
-    "INRC|177319|20261111|PRIME PLUS ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "02:55 PM",
-      "date": "20261111",
-      "cat": "PRIME PLUS ROWS",
-      "price": "340.00",
       "status": "1"
     },
-    "INRC|177319|20261111|PRIME ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "02:55 PM",
-      "date": "20261111",
-      "cat": "PRIME ROWS",
-      "price": "320.00",
-      "status": "1"
-    },
-    "INRC|177319|20261111|CLASSIC ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "02:55 PM",
-      "date": "20261111",
-      "cat": "CLASSIC ROWS",
-      "price": "270.00",
-      "status": "2"
-    },
-    "MTHB|278370|20261111|GOLD": {
-      "venue": "MOVIETIME: HUB, Goregaon (E)",
-      "time": "07:45 PM",
-      "date": "20261111",
-      "cat": "GOLD",
-      "price": "320.00",
+    "IMOB|25477|20261113|RECLINER": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "10:00 AM",
+      "date": "20261113",
+      "cat": "RECLINER",
+      "price": "410.00",
       "status": "3"
     },
-    "MTHB|278432|20261111|GOLD": {
+    "MTHB|278497|20261113|GOLD": {
       "venue": "MOVIETIME: HUB, Goregaon (E)",
-      "time": "10:55 PM",
-      "date": "20261111",
+      "time": "11:45 AM",
+      "date": "20261113",
       "cat": "GOLD",
-      "price": "330.00",
+      "price": "250.00",
       "status": "3"
     },
-    "POPE|30002|20261111|PRIME PLUS ROWS": {
-      "venue": "PVR: Orion Mall, Panvel",
+    "FMMA|237403|20261113|ROYAL ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "02:20 PM",
-      "date": "20261111",
-      "cat": "PRIME PLUS ROWS",
-      "price": "270.00",
-      "status": "0"
-    },
-    "POPE|30002|20261111|PRIME ROWS": {
-      "venue": "PVR: Orion Mall, Panvel",
-      "time": "02:20 PM",
-      "date": "20261111",
-      "cat": "PRIME ROWS",
-      "price": "240.00",
+      "date": "20261113",
+      "cat": "ROYAL ROWS",
+      "price": "700.00",
       "status": "1"
     },
-    "POPE|30002|20261111|CLASSIC ROWS": {
-      "venue": "PVR: Orion Mall, Panvel",
+    "FMMA|237403|20261113|EXECUTIVE ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "02:20 PM",
-      "date": "20261111",
-      "cat": "CLASSIC ROWS",
-      "price": "220.00",
-      "status": "2"
+      "date": "20261113",
+      "cat": "EXECUTIVE ROWS",
+      "price": "580.00",
+      "status": "3"
     },
-    "MIFU|18331|20261111|SPECIAL": {
+    "INRC|177443|20261113|ROYAL ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "12:25 PM",
+      "date": "20261113",
+      "cat": "ROYAL ROWS",
+      "price": "630.00",
+      "status": "3"
+    },
+    "INRC|177443|20261113|EXECUTIVE ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "12:25 PM",
+      "date": "20261113",
+      "cat": "EXECUTIVE ROWS",
+      "price": "580.00",
+      "status": "3"
+    },
+    "MIFU|18402|20261113|SPECIAL": {
       "venue": "Funcity Big Cinema:UNR (OPEN 4 NEW RECLINER SCRNS)",
-      "time": "05:45 PM",
-      "date": "20261111",
+      "time": "10:30 PM",
+      "date": "20261113",
       "cat": "SPECIAL",
       "price": "130.00",
       "status": "3"
     },
-    "MTCR|128220|20261111|SILVER": {
-      "venue": "MOVIETIME Cubic Mall: Chembur",
-      "time": "04:45 PM",
-      "date": "20261111",
-      "cat": "SILVER",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MTCR|128220|20261111|SILVER 1": {
-      "venue": "MOVIETIME Cubic Mall: Chembur",
-      "time": "04:45 PM",
-      "date": "20261111",
-      "cat": "SILVER 1",
-      "price": "280.00",
-      "status": "0"
-    },
-    "MTCR|128221|20261111|SILVER": {
-      "venue": "MOVIETIME Cubic Mall: Chembur",
-      "time": "07:40 PM",
-      "date": "20261111",
-      "cat": "SILVER",
-      "price": "330.00",
-      "status": "3"
-    },
-    "MTCR|128221|20261111|SILVER 1": {
-      "venue": "MOVIETIME Cubic Mall: Chembur",
-      "time": "07:40 PM",
-      "date": "20261111",
-      "cat": "SILVER 1",
-      "price": "330.00",
-      "status": "1"
-    },
-    "PRCW|35614|20261111|RECLINER ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "05:30 PM",
-      "date": "20261111",
-      "cat": "RECLINER ROWS",
-      "price": "760.00",
-      "status": "0"
-    },
-    "PRCW|35614|20261111|EXTRA LEGROOM ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "05:30 PM",
-      "date": "20261111",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "510.00",
-      "status": "1"
-    },
-    "PRCW|35614|20261111|PRIME PLUS ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "05:30 PM",
-      "date": "20261111",
+    "POPE|30059|20261113|PRIME PLUS ROWS": {
+      "venue": "PVR: Orion Mall, Panvel",
+      "time": "08:55 AM",
+      "date": "20261113",
       "cat": "PRIME PLUS ROWS",
-      "price": "480.00",
-      "status": "0"
-    },
-    "PRCW|35614|20261111|PRIME ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "05:30 PM",
-      "date": "20261111",
-      "cat": "PRIME ROWS",
-      "price": "430.00",
-      "status": "2"
-    },
-    "PRCW|35614|20261111|CLASSIC ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "05:30 PM",
-      "date": "20261111",
-      "cat": "CLASSIC ROWS",
-      "price": "380.00",
+      "price": "220.00",
       "status": "3"
     },
-    "DCTW|6735|20261111|RECLINER": {
+    "POPE|30059|20261113|PRIME ROWS": {
+      "venue": "PVR: Orion Mall, Panvel",
+      "time": "08:55 AM",
+      "date": "20261113",
+      "cat": "PRIME ROWS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "POPE|30059|20261113|CLASSIC ROWS": {
+      "venue": "PVR: Orion Mall, Panvel",
+      "time": "08:55 AM",
+      "date": "20261113",
+      "cat": "CLASSIC ROWS",
+      "price": "170.00",
+      "status": "3"
+    },
+    "PMKM|45438|20261113|ROYAL ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "03:45 PM",
+      "date": "20261113",
+      "cat": "ROYAL ROWS",
+      "price": "620.00",
+      "status": "3"
+    },
+    "PMKM|45438|20261113|EXECUTIVE ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "03:45 PM",
+      "date": "20261113",
+      "cat": "EXECUTIVE ROWS",
+      "price": "570.00",
+      "status": "3"
+    },
+    "MTCR|128296|20261113|SILVER": {
+      "venue": "MOVIETIME Cubic Mall: Chembur",
+      "time": "10:30 PM",
+      "date": "20261113",
+      "cat": "SILVER",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MTCR|128296|20261113|SILVER 1": {
+      "venue": "MOVIETIME Cubic Mall: Chembur",
+      "time": "10:30 PM",
+      "date": "20261113",
+      "cat": "SILVER 1",
+      "price": "280.00",
+      "status": "1"
+    },
+    "PRCW|35684|20261113|RECLINER ROWS": {
+      "venue": "PVR ICON: Infiniti Andheri (W)",
+      "time": "09:05 AM",
+      "date": "20261113",
+      "cat": "RECLINER ROWS",
+      "price": "490.00",
+      "status": "3"
+    },
+    "PRCW|35684|20261113|EXTRA LEGROOM ROWS": {
+      "venue": "PVR ICON: Infiniti Andheri (W)",
+      "time": "09:05 AM",
+      "date": "20261113",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PRCW|35684|20261113|PRIME PLUS ROWS": {
+      "venue": "PVR ICON: Infiniti Andheri (W)",
+      "time": "09:05 AM",
+      "date": "20261113",
+      "cat": "PRIME PLUS ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "PRCW|35684|20261113|PRIME ROWS": {
+      "venue": "PVR ICON: Infiniti Andheri (W)",
+      "time": "09:05 AM",
+      "date": "20261113",
+      "cat": "PRIME ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "PRCW|35684|20261113|CLASSIC ROWS": {
+      "venue": "PVR ICON: Infiniti Andheri (W)",
+      "time": "09:05 AM",
+      "date": "20261113",
+      "cat": "CLASSIC ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "DCTW|6809|20261113|RECLINER": {
       "venue": "Devgn CineX: The Walk, Thane",
-      "time": "08:30 PM",
-      "date": "20261111",
+      "time": "09:30 AM",
+      "date": "20261113",
       "cat": "RECLINER",
       "price": "1000.00",
-      "status": "2"
-    },
-    "DCTW|6735|20261111|PRIME": {
-      "venue": "Devgn CineX: The Walk, Thane",
-      "time": "08:30 PM",
-      "date": "20261111",
-      "cat": "PRIME",
-      "price": "380.00",
       "status": "3"
     },
-    "DCTW|6735|20261111|CLASSIC": {
+    "DCTW|6809|20261113|PRIME": {
       "venue": "Devgn CineX: The Walk, Thane",
-      "time": "08:30 PM",
-      "date": "20261111",
-      "cat": "CLASSIC",
+      "time": "09:30 AM",
+      "date": "20261113",
+      "cat": "PRIME",
       "price": "350.00",
+      "status": "3"
+    },
+    "DCTW|6809|20261113|CLASSIC": {
+      "venue": "Devgn CineX: The Walk, Thane",
+      "time": "09:30 AM",
+      "date": "20261113",
+      "cat": "CLASSIC",
+      "price": "300.00",
       "status": "3"
     }
   },
   "dates": {
-    "20261111": "BOOKABLE",
-    "20261112": "AVAILABLE",
-    "20261113": "NOT_OPEN",
-    "20261114": "NOT_OPEN",
-    "20261115": "NOT_OPEN",
+    "20261113": "BOOKABLE",
+    "20261114": "AVAILABLE",
+    "20261115": "AVAILABLE",
     "20261116": "NOT_OPEN",
-    "20261117": "NOT_OPEN"
+    "20261117": "NOT_OPEN",
+    "20261118": "NOT_OPEN",
+    "20261119": "NOT_OPEN"
   }
 }
