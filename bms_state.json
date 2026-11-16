@@ -1,237 +1,357 @@
 {
   "shows": {
-    "CPVM|18905|20261113|NORMAL": {
-      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
-      "time": "09:00 AM",
-      "date": "20261113",
+    "CSWO|22554|20261117|NORMAL": {
+      "venue": "Cinepolis: Nexus Seawoods, Nerul, Navi Mumbai",
+      "time": "11:15 PM",
+      "date": "20261117",
       "cat": "NORMAL",
-      "price": "190.00",
+      "price": "189.00",
       "status": "3"
     },
-    "CPVM|18905|20261113|EXECUTIVE": {
-      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
-      "time": "09:00 AM",
-      "date": "20261113",
+    "CSWO|22554|20261117|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Seawoods, Nerul, Navi Mumbai",
+      "time": "11:15 PM",
+      "date": "20261117",
       "cat": "EXECUTIVE",
-      "price": "230.00",
+      "price": "189.00",
       "status": "3"
     },
-    "CPVM|18905|20261113|PREMIUM": {
-      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
-      "time": "09:00 AM",
-      "date": "20261113",
+    "CSWO|22554|20261117|PREMIUM": {
+      "venue": "Cinepolis: Nexus Seawoods, Nerul, Navi Mumbai",
+      "time": "11:15 PM",
+      "date": "20261117",
       "cat": "PREMIUM",
-      "price": "250.00",
+      "price": "189.00",
       "status": "3"
     },
-    "CPVM|18905|20261113|PREMIUM XL": {
-      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
-      "time": "09:00 AM",
-      "date": "20261113",
-      "cat": "PREMIUM XL",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CPVM|18905|20261113|PREMIUM PLUS": {
-      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
-      "time": "09:00 AM",
-      "date": "20261113",
-      "cat": "PREMIUM PLUS",
-      "price": "270.00",
-      "status": "3"
-    },
-    "IMOB|25477|20261113|RECLINER PRIME": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "10:00 AM",
-      "date": "20261113",
-      "cat": "RECLINER PRIME",
-      "price": "590.00",
-      "status": "1"
-    },
-    "IMOB|25477|20261113|RECLINER": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "10:00 AM",
-      "date": "20261113",
+    "CSWO|22554|20261117|RECLINER": {
+      "venue": "Cinepolis: Nexus Seawoods, Nerul, Navi Mumbai",
+      "time": "11:15 PM",
+      "date": "20261117",
       "cat": "RECLINER",
-      "price": "410.00",
+      "price": "189.00",
       "status": "3"
     },
-    "MTHB|278497|20261113|GOLD": {
-      "venue": "MOVIETIME: HUB, Goregaon (E)",
-      "time": "11:45 AM",
-      "date": "20261113",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "FMMA|237403|20261113|ROYAL ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "02:20 PM",
-      "date": "20261113",
-      "cat": "ROYAL ROWS",
-      "price": "700.00",
-      "status": "1"
-    },
-    "FMMA|237403|20261113|EXECUTIVE ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "02:20 PM",
-      "date": "20261113",
-      "cat": "EXECUTIVE ROWS",
-      "price": "580.00",
-      "status": "3"
-    },
-    "INRC|177443|20261113|ROYAL ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "12:25 PM",
-      "date": "20261113",
-      "cat": "ROYAL ROWS",
-      "price": "630.00",
-      "status": "3"
-    },
-    "INRC|177443|20261113|EXECUTIVE ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "12:25 PM",
-      "date": "20261113",
-      "cat": "EXECUTIVE ROWS",
-      "price": "580.00",
-      "status": "3"
-    },
-    "MIFU|18402|20261113|SPECIAL": {
-      "venue": "Funcity Big Cinema:UNR (OPEN 4 NEW RECLINER SCRNS)",
-      "time": "10:30 PM",
-      "date": "20261113",
-      "cat": "SPECIAL",
+    "CPVM|19071|20261117|NORMAL": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "12:15 PM",
+      "date": "20261117",
+      "cat": "NORMAL",
       "price": "130.00",
       "status": "3"
     },
-    "POPE|30059|20261113|PRIME PLUS ROWS": {
+    "CPVM|19071|20261117|EXECUTIVE": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "12:15 PM",
+      "date": "20261117",
+      "cat": "EXECUTIVE",
+      "price": "130.00",
+      "status": "3"
+    },
+    "CPVM|19071|20261117|PREMIUM": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "12:15 PM",
+      "date": "20261117",
+      "cat": "PREMIUM",
+      "price": "130.00",
+      "status": "3"
+    },
+    "CPVM|19071|20261117|PREMIUM XL": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "12:15 PM",
+      "date": "20261117",
+      "cat": "PREMIUM XL",
+      "price": "130.00",
+      "status": "3"
+    },
+    "CPVM|19071|20261117|PREMIUM PLUS": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "12:15 PM",
+      "date": "20261117",
+      "cat": "PREMIUM PLUS",
+      "price": "130.00",
+      "status": "2"
+    },
+    "CPVM|19073|20261117|NORMAL": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "07:45 PM",
+      "date": "20261117",
+      "cat": "NORMAL",
+      "price": "130.00",
+      "status": "3"
+    },
+    "CPVM|19073|20261117|EXECUTIVE": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "07:45 PM",
+      "date": "20261117",
+      "cat": "EXECUTIVE",
+      "price": "130.00",
+      "status": "3"
+    },
+    "CPVM|19073|20261117|PREMIUM": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "07:45 PM",
+      "date": "20261117",
+      "cat": "PREMIUM",
+      "price": "130.00",
+      "status": "3"
+    },
+    "CPVM|19073|20261117|PREMIUM XL": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "07:45 PM",
+      "date": "20261117",
+      "cat": "PREMIUM XL",
+      "price": "130.00",
+      "status": "0"
+    },
+    "CPVM|19073|20261117|PREMIUM PLUS": {
+      "venue": "Cinepolis: Lake Shore, Thane (EX Viviana Mall)",
+      "time": "07:45 PM",
+      "date": "20261117",
+      "cat": "PREMIUM PLUS",
+      "price": "130.00",
+      "status": "1"
+    },
+    "MTHB|278661|20261117|GOLD": {
+      "venue": "MOVIETIME: HUB, Goregaon (E)",
+      "time": "11:45 AM",
+      "date": "20261117",
+      "cat": "GOLD",
+      "price": "150.00",
+      "status": "3"
+    },
+    "IMOB|25573|20261117|LOUNGER": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "09:55 AM",
+      "date": "20261117",
+      "cat": "LOUNGER",
+      "price": "149.00",
+      "status": "3"
+    },
+    "IMOB|25573|20261117|PRIME": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "09:55 AM",
+      "date": "20261117",
+      "cat": "PRIME",
+      "price": "149.00",
+      "status": "3"
+    },
+    "IMOB|25573|20261117|PICTURE PERFECT": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "09:55 AM",
+      "date": "20261117",
+      "cat": "PICTURE PERFECT",
+      "price": "149.00",
+      "status": "2"
+    },
+    "IMOB|25573|20261117|CLASSIC": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "09:55 AM",
+      "date": "20261117",
+      "cat": "CLASSIC",
+      "price": "149.00",
+      "status": "3"
+    },
+    "IMOB|25573|20261117|PRIME PLUS": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "09:55 AM",
+      "date": "20261117",
+      "cat": "PRIME PLUS",
+      "price": "149.00",
+      "status": "2"
+    },
+    "FMMA|237634|20261117|EXECUTIVE ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "02:20 PM",
+      "date": "20261117",
+      "cat": "EXECUTIVE ROWS",
+      "price": "399.00",
+      "status": "2"
+    },
+    "FMMA|237634|20261117|ROYAL ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "02:20 PM",
+      "date": "20261117",
+      "cat": "ROYAL ROWS",
+      "price": "399.00",
+      "status": "1"
+    },
+    "MTCR|128432|20261117|SILVER": {
+      "venue": "MOVIETIME Cubic Mall: Chembur",
+      "time": "10:15 AM",
+      "date": "20261117",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "MTCR|128432|20261117|SILVER 1": {
+      "venue": "MOVIETIME Cubic Mall: Chembur",
+      "time": "10:15 AM",
+      "date": "20261117",
+      "cat": "SILVER 1",
+      "price": "200.00",
+      "status": "1"
+    },
+    "MTCR|128436|20261117|SILVER": {
+      "venue": "MOVIETIME Cubic Mall: Chembur",
+      "time": "10:15 PM",
+      "date": "20261117",
+      "cat": "SILVER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "MTCR|128436|20261117|SILVER 1": {
+      "venue": "MOVIETIME Cubic Mall: Chembur",
+      "time": "10:15 PM",
+      "date": "20261117",
+      "cat": "SILVER 1",
+      "price": "250.00",
+      "status": "1"
+    },
+    "INRC|177572|20261117|ROYAL ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "02:30 PM",
+      "date": "20261117",
+      "cat": "ROYAL ROWS",
+      "price": "399.00",
+      "status": "2"
+    },
+    "INRC|177572|20261117|EXECUTIVE ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "02:30 PM",
+      "date": "20261117",
+      "cat": "EXECUTIVE ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "POPE|30128|20261117|PRIME PLUS ROWS": {
       "venue": "PVR: Orion Mall, Panvel",
       "time": "08:55 AM",
-      "date": "20261113",
+      "date": "20261117",
       "cat": "PRIME PLUS ROWS",
-      "price": "220.00",
+      "price": "200.00",
       "status": "3"
     },
-    "POPE|30059|20261113|PRIME ROWS": {
+    "POPE|30128|20261117|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Panvel",
       "time": "08:55 AM",
-      "date": "20261113",
+      "date": "20261117",
       "cat": "PRIME ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
-    "POPE|30059|20261113|CLASSIC ROWS": {
-      "venue": "PVR: Orion Mall, Panvel",
-      "time": "08:55 AM",
-      "date": "20261113",
-      "cat": "CLASSIC ROWS",
       "price": "170.00",
       "status": "3"
     },
-    "PMKM|45438|20261113|ROYAL ROWS": {
-      "venue": "PVR: Market City, Kurla (Premiere)",
-      "time": "03:45 PM",
-      "date": "20261113",
-      "cat": "ROYAL ROWS",
-      "price": "620.00",
+    "POPE|30128|20261117|CLASSIC ROWS": {
+      "venue": "PVR: Orion Mall, Panvel",
+      "time": "08:55 AM",
+      "date": "20261117",
+      "cat": "CLASSIC ROWS",
+      "price": "150.00",
       "status": "3"
     },
-    "PMKM|45438|20261113|EXECUTIVE ROWS": {
+    "MIFU|18520|20261117|RECLINER": {
+      "venue": "Funcity Big Cinema:UNR (OPEN 4 NEW RECLINER SCRNS)",
+      "time": "09:15 PM",
+      "date": "20261117",
+      "cat": "RECLINER",
+      "price": "149.00",
+      "status": "3"
+    },
+    "MIFU|18520|20261117|SOFA": {
+      "venue": "Funcity Big Cinema:UNR (OPEN 4 NEW RECLINER SCRNS)",
+      "time": "09:15 PM",
+      "date": "20261117",
+      "cat": "SOFA",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PMKM|45551|20261117|EXECUTIVE ROWS": {
       "venue": "PVR: Market City, Kurla (Premiere)",
       "time": "03:45 PM",
-      "date": "20261113",
+      "date": "20261117",
       "cat": "EXECUTIVE ROWS",
-      "price": "570.00",
+      "price": "399.00",
       "status": "3"
     },
-    "MTCR|128296|20261113|SILVER": {
-      "venue": "MOVIETIME Cubic Mall: Chembur",
-      "time": "10:30 PM",
-      "date": "20261113",
-      "cat": "SILVER",
-      "price": "280.00",
-      "status": "3"
+    "PMKM|45551|20261117|ROYAL ROWS": {
+      "venue": "PVR: Market City, Kurla (Premiere)",
+      "time": "03:45 PM",
+      "date": "20261117",
+      "cat": "ROYAL ROWS",
+      "price": "399.00",
+      "status": "2"
     },
-    "MTCR|128296|20261113|SILVER 1": {
-      "venue": "MOVIETIME Cubic Mall: Chembur",
-      "time": "10:30 PM",
-      "date": "20261113",
-      "cat": "SILVER 1",
-      "price": "280.00",
-      "status": "1"
-    },
-    "PRCW|35684|20261113|RECLINER ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "09:05 AM",
-      "date": "20261113",
+    "PLXP|36251|20261117|RECLINER ROWS": {
+      "venue": "PVR: Lodha Xperia, Palava",
+      "time": "10:15 PM",
+      "date": "20261117",
       "cat": "RECLINER ROWS",
-      "price": "490.00",
+      "price": "299.00",
       "status": "3"
     },
-    "PRCW|35684|20261113|EXTRA LEGROOM ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "09:05 AM",
-      "date": "20261113",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "290.00",
+    "PLXP|36251|20261117|CLASSIC ROWS": {
+      "venue": "PVR: Lodha Xperia, Palava",
+      "time": "10:15 PM",
+      "date": "20261117",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
       "status": "3"
     },
-    "PRCW|35684|20261113|PRIME PLUS ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "09:05 AM",
-      "date": "20261113",
-      "cat": "PRIME PLUS ROWS",
-      "price": "260.00",
-      "status": "3"
-    },
-    "PRCW|35684|20261113|PRIME ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "09:05 AM",
-      "date": "20261113",
+    "PLXP|36251|20261117|PRIME ROWS": {
+      "venue": "PVR: Lodha Xperia, Palava",
+      "time": "10:15 PM",
+      "date": "20261117",
       "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PRCW|35782|20261117|LUXE SUPERIOR": {
+      "venue": "PVR ICON: Infiniti Andheri (W)",
+      "time": "10:55 AM",
+      "date": "20261117",
+      "cat": "LUXE SUPERIOR",
+      "price": "399.00",
+      "status": "3"
+    },
+    "PRCW|35782|20261117|LUXE": {
+      "venue": "PVR ICON: Infiniti Andheri (W)",
+      "time": "10:55 AM",
+      "date": "20261117",
+      "cat": "LUXE",
+      "price": "399.00",
+      "status": "3"
+    },
+    "DCTW|6854|20261117|RECLINER": {
+      "venue": "Devgn CineX: The Walk, Thane",
+      "time": "09:30 AM",
+      "date": "20261117",
+      "cat": "RECLINER",
+      "price": "600.00",
+      "status": "3"
+    },
+    "DCTW|6854|20261117|PRIME": {
+      "venue": "Devgn CineX: The Walk, Thane",
+      "time": "09:30 AM",
+      "date": "20261117",
+      "cat": "PRIME",
       "price": "240.00",
       "status": "3"
     },
-    "PRCW|35684|20261113|CLASSIC ROWS": {
-      "venue": "PVR ICON: Infiniti Andheri (W)",
-      "time": "09:05 AM",
-      "date": "20261113",
-      "cat": "CLASSIC ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "DCTW|6809|20261113|RECLINER": {
+    "DCTW|6854|20261117|CLASSIC": {
       "venue": "Devgn CineX: The Walk, Thane",
       "time": "09:30 AM",
-      "date": "20261113",
-      "cat": "RECLINER",
-      "price": "1000.00",
-      "status": "3"
-    },
-    "DCTW|6809|20261113|PRIME": {
-      "venue": "Devgn CineX: The Walk, Thane",
-      "time": "09:30 AM",
-      "date": "20261113",
-      "cat": "PRIME",
-      "price": "350.00",
-      "status": "3"
-    },
-    "DCTW|6809|20261113|CLASSIC": {
-      "venue": "Devgn CineX: The Walk, Thane",
-      "time": "09:30 AM",
-      "date": "20261113",
+      "date": "20261117",
       "cat": "CLASSIC",
-      "price": "300.00",
+      "price": "220.00",
       "status": "3"
     }
   },
   "dates": {
-    "20261113": "BOOKABLE",
-    "20261114": "AVAILABLE",
-    "20261115": "AVAILABLE",
-    "20261116": "NOT_OPEN",
-    "20261117": "NOT_OPEN",
-    "20261118": "NOT_OPEN",
-    "20261119": "NOT_OPEN"
+    "20261117": "BOOKABLE",
+    "20261118": "AVAILABLE",
+    "20261119": "AVAILABLE",
+    "20261120": "NOT_OPEN",
+    "20261121": "NOT_OPEN",
+    "20261122": "NOT_OPEN",
+    "20261123": "NOT_OPEN"
   }
 }
